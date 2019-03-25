@@ -1,0 +1,36 @@
+pr,,,
+5000,1000,1,name info 1
+4000,3000,1,name info 1
+4000,2000,1,name info 1
+0,1000,1,name info 1
+2607,3322,1,name info 1
+2400,2900,1,name info 1
+0,7000,1,name info 1
+5000,7000,1,name info 1
+3333,3333,1,name info 1
+,,,
+l3,name linkid 1,,
+2000,3000,1,linkid 1
+4000,6000,2,linkid 1
+4000,2000,3,linkid 1
+2700,3200,1,linkid 1
+,,,
+l4,name linkid 1,,
+1000,4000,1,linkid 1
+1000,6000,2,linkid 1
+2000,6000,3,linkid 1
+2000,4000,4,linkid 1
+,,,
+l1,name linkid 1,,
+4000,1000,1,linkid 1
+2000,1000,2,linkid 1
+,,,
+l2,name linkid 1,,
+4000,1000,1,linkid 1
+3000,1000,2,linkid 1
+2000,2000,3,linkid 1
+,,,
+pn,,,
+2000,3000,1,noteinfo 5 Red
+4000,6000,2,noteinfo 1 Green
+3333,3333,3,noteinfo 1 Purple

@@ -1,0 +1,77 @@
+* {margin:0;padding:0}
+html, body {height:100%}
+body {background:#000;font-family:Tahoma, Geneva, sans-serif;font-size:100%;line-height:.9375em;color:#fff}
+img {border:0;vertical-align:top;text-align:left}
+object {vertical-align:top;outline:none}
+ul, ol {list-style:none}
+.fleft {float:left}
+.fright {float:right}
+.clear {clear:both}
+.col-1, .col-2, .col-3 {float:left}
+.alignright {text-align:right}
+.aligncenter {text-align:center}
+.wrapper {width:100%;overflow:hidden}
+.container {width:100%}
+/* GLOBAL */
+#main {width:1000px;margin:0 auto;font-size:.75em}
+#header {height:285px;background:url(images/header-bg.jpg) no-repeat left top}
+#content {position:relative}
+#footer {height:80px;background:url(images/footer-bg.jpg) no-repeat left top}
+/* forms parameters */
+input, select, textarea {font-family:Tahoma, Geneva, sans-serif;font-size:1em;vertical-align:middle;font-weight:normal}
+/* other */
+.img-indent {margin:0 20px 0 0;float:left}
+.img-box {width:100%;overflow:hidden;padding-bottom:15px}
+.img-box img {float:left;margin:0 20px 0 0}
+.extra-wrap {overflow:hidden}
+p {margin-bottom:15px}
+.p1 {margin-bottom:8px}
+.p2 {margin-bottom:16px}
+.p3 {margin-bottom:24px}
+/* txt, links, lines, titles */
+a {color:#bde0ff;outline:none}
+a:hover {text-decoration:none}
+h2, h3 {font-family:Georgia, "Times New Roman", Times, serif;color:#bde0ff;font-weight:normal;line-height:1.2em;margin-bottom:16px}
+h2 {font-size:2em}
+h3 {font-size:1.67em}
+h4 {font-size:1em;margin-bottom:3px}
+h4 a {color:#fff;text-decoration:none}
+h4 a:hover {text-decoration:underline}
+.link1 {color:#fff}
+.link2 {color:#bc191a}
+/* boxes */
+.content-box {background:url(images/content-bg1.jpg) left top repeat-y;width:100%}
+.content-box .top {background:url(images/content-top.jpg) no-repeat left top}
+.content-box .bottom {background:url(images/content-bottom.jpg) no-repeat left bottom;width:100%}
+.content-box .inside {padding:1px 269px 0 48px}
+.box {width:100%}
+.box .top {background:url(images/box-top.png) no-repeat left bottom;height:16px !important;overflow:hidden;font-size:0;line-height:0}
+.box .bottom {background:url(images/box-bot.png) no-repeat left top;height:16px;overflow:hidden;font-size:0;line-height:0}
+.box .inner {background:url(images/box-bg.png) left top;padding:8px 42px 10px 40px}
+.box .inner_copy {border:0;color:#fff;float:right;width:0.09%!important;margin:-100px;overflow:hidden;line-height:0px;padding:0px;font-size:11px}
+/* header */
+#header .row-1 {height:190px}
+#header .row-1 .indent {padding:32px 0 0 32px}
+#header .row-2 {}
+.nav {padding:13px 0 0 26px}
+.nav li {float:left;padding-right:46px}
+.nav li.last {padding-right:0}
+/* content */
+#content .magic {position:absolute;right:31px;top:31px}
+.img-list li {width:100%;overflow:hidden;padding-bottom:22px}
+.img-list li.last {padding-bottom:0}
+.img-list li img {float:left;margin-right:20px}
+.img-list li img.png {margin-bottom:-6px}
+.list1 {padding-bottom:18px}
+.list1 li {background:url(images/arrow1.gif) no-repeat left 5px;padding:0 0 0 12px;position:relative}
+.list1 li li {background:url(images/arrow2.gif) no-repeat left 6px}
+/* footer */
+#footer .indent {padding:27px 86px 0 86px}
+#footer img {position:relative;top:-3px}
+/* forms */
+#contacts-form {clear:right;width:100%;overflow:hidden;padding-bottom:20px}
+#contacts-form fieldset {border:none;float:left}
+#contacts-form .field {clear:both}
+#contacts-form label {float:left;width:97px;line-height:18px;padding-bottom:3px;font-weight:bold}
+#contacts-form input {width:238px;padding:0 0 0 3px;background:url(images/form-bg.png) left top;border:1px solid #bde0ff;color:#fff;float:left}
+#contacts-form textarea {width:495px;height:208px;padding:0 0 0 3px;background:url(images/form-bg.png) left top;border:1px solid #bde0ff;color:#fff;margin-bottom:18px;overflow:auto;float:left}
