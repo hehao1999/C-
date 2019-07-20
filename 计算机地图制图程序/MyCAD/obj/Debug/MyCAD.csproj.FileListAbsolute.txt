@@ -24,3 +24,16 @@ C:\Users\14217\Desktop\专业课\2016116013何豪\MyCAD\obj\Debug\MyCAD.csproj.G
 C:\Users\14217\Desktop\专业课\2016116013何豪\MyCAD\obj\Debug\MyCAD.csproj.CoreCompileInputs.cache
 C:\Users\14217\Desktop\专业课\2016116013何豪\MyCAD\obj\Debug\MyCAD.exe
 C:\Users\14217\Desktop\专业课\2016116013何豪\MyCAD\obj\Debug\MyCAD.pdb
+H:\git\C#计算机地图制图\计算机地图制图程序\MyCAD\bin\Debug\MyCAD.exe.config
+H:\git\C#计算机地图制图\计算机地图制图程序\MyCAD\bin\Debug\MyCAD.exe
+H:\git\C#计算机地图制图\计算机地图制图程序\MyCAD\bin\Debug\MyCAD.pdb
+H:\git\C#计算机地图制图\计算机地图制图程序\MyCAD\obj\Debug\MyCAD.csprojAssemblyReference.cache
+H:\git\C#计算机地图制图\计算机地图制图程序\MyCAD\obj\Debug\MyCAD.DP.resources
+H:\git\C#计算机地图制图\计算机地图制图程序\MyCAD\obj\Debug\MyCAD.find.resources
+H:\git\C#计算机地图制图\计算机地图制图程序\MyCAD\obj\Debug\MyCAD.Form1.resources
+H:\git\C#计算机地图制图\计算机地图制图程序\MyCAD\obj\Debug\MyCAD.Form2.resources
+H:\git\C#计算机地图制图\计算机地图制图程序\MyCAD\obj\Debug\MyCAD.Properties.Resources.resources
+H:\git\C#计算机地图制图\计算机地图制图程序\MyCAD\obj\Debug\MyCAD.csproj.GenerateResource.cache
+H:\git\C#计算机地图制图\计算机地图制图程序\MyCAD\obj\Debug\MyCAD.csproj.CoreCompileInputs.cache
+H:\git\C#计算机地图制图\计算机地图制图程序\MyCAD\obj\Debug\MyCAD.exe
+H:\git\C#计算机地图制图\计算机地图制图程序\MyCAD\obj\Debug\MyCAD.pdb
